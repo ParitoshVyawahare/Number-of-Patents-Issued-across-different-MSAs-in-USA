@@ -8,9 +8,9 @@ The project utilizes publicly available datasets to analyze and visualize patent
 
 ## Insights from the Map  
 - **Top Regions for Patents**:  
-  - **#1 Region**: Highest concentration with 12,899 patents.  
-  - **#2 Region**: 8,721 patents.  
-  - **#3 Region**: 7,886 patents.  
+  - **#1 San jose-sunyvale-santaclara CA**: Highest concentration with 12,899 patents.  
+  - **#2 San Francisco-Oakland-Fremont, CA**: 8,721 patents.  
+  - **#3 New York-Northern New Jersey-Long Island, NY-NJ-PA**: 7,886 patents.  
 
 - The map provides a heatmap visualization that highlights regions with the most significant patent activity, emphasizing key innovation centers.
 
